@@ -1,5 +1,7 @@
 # Agentic Data Cleaning Planner
 
+NRCM Hackathon
+
 A modern, minimal web application for autonomous, safe data cleaning and transformation planning.
 
 ## Features
